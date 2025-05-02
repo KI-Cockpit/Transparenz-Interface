@@ -9,6 +9,7 @@ Beim Transparenz-Interface handelt es sich um eine wissenschaftlich erprobte Str
 - Dient als globale Erklärung des Systems (im Gegensatz zu lokalen Erklärungen einzelner Ergebnisse) (Schwalbe & Finzel 2023)
 - Zielt auf Transparenz und Verständlichkeit für verschiedene Nutzer:innengruppen ab
 
+![extra_img_Matthias Bothel_V2-22](https://github.com/user-attachments/assets/ad2cf8ab-afec-44fd-86df-a3267df9055f)
 
 ## Literatur
 - Adadi, A. & Berrada, M. (2018). Peeking Inside the Black-Box: A Survey on Explainable Artificial Intelligence (XAI). IEEE Access, 6, 52138–52160. https://doi.org/10.1109/ACCESS.2018.2870052
